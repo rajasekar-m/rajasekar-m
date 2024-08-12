@@ -31,6 +31,11 @@ Here are some highlights of my work:
 
 <!-- You can use GitHub Readme Stats for a more visual representation -->
 ![Rajasekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajasekar-m&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
+
+
+<!-- Total Contributions -->
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rajasekar-m&theme=radical)
+
 <!-- Most Used Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasekar-m&layout=compact&theme=radical) <!-- Replace with your GitHub username -->
 
